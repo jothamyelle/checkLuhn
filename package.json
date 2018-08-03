@@ -1,0 +1,14 @@
+{
+  "name": "checkluhn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "checkLuhn.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}
