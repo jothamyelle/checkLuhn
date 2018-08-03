@@ -1,3 +1,3 @@
 var checkLuhn = require('./checkLuhn');
 
-checkLuhn('79927398713');
+console.log(checkLuhn.checkLuhn('79927398713'));
